@@ -1,8 +1,7 @@
-# React + Vite
+# React + Vite +tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# create this project for practice ,steping towards best portfolio site for me .
 
-Currently, two official plugins are available:
+# it has Darkmode and Lightmode with toggle button .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# To manage the 'themeMode' state , I use contextApi which is simply best for simple projects. although i test with it with redux toolkit too :D
